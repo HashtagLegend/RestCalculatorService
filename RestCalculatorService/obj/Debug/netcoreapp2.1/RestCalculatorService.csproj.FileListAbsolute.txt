@@ -1,0 +1,14 @@
+C:\source\RestCalculatorService\RestCalculatorService\bin\Debug\netcoreapp2.1\RestCalculatorService.deps.json
+C:\source\RestCalculatorService\RestCalculatorService\bin\Debug\netcoreapp2.1\RestCalculatorService.runtimeconfig.json
+C:\source\RestCalculatorService\RestCalculatorService\bin\Debug\netcoreapp2.1\RestCalculatorService.runtimeconfig.dev.json
+C:\source\RestCalculatorService\RestCalculatorService\bin\Debug\netcoreapp2.1\RestCalculatorService.dll
+C:\source\RestCalculatorService\RestCalculatorService\bin\Debug\netcoreapp2.1\RestCalculatorService.pdb
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.csprojAssemblyReference.cache
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.csproj.CoreCompileInputs.cache
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.RazorAssemblyInfo.cache
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.RazorAssemblyInfo.cs
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.AssemblyInfoInputs.cache
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.AssemblyInfo.cs
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.RazorTargetAssemblyInfo.cache
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.dll
+C:\source\RestCalculatorService\RestCalculatorService\obj\Debug\netcoreapp2.1\RestCalculatorService.pdb
